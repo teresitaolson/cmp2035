@@ -1,42 +1,43 @@
 body {
-    font-family: "merriweather";
+    font-family: "sutro";
     background-color: #fffeff;
     padding: 10px;}
 h1 {
-    font-family: "Lato";
-    color: #e53b51;}
+    font-family: "vortice";
+    color: darkorchid;}
 h2 {
-    color: #ec6c20;
-    font-family: "Lato";}
+    color: dodgerblue;
+    font-family: "vortice";}
 h3 {
-    color: #3cb5b5;
+    color: darkmagenta;
     font-family: "Lato";}
 h4 {
-    color: #3cb5b5;
-    font-family: "merriweather";
+    color: fuchsia;
+    font-family: "postino std";
     font-weight: bold;}
-#source {font-size: 75%;}
-i {color:#ec6c20}
-b {color:#f37602}
+#source {font-size: 100%;}
+i {color: cyan}
+b {color:deeppink}
 .page {
-    border-color: #e53b51;
+    border-color: darkorchid;
+    background-color:aqua;
     border-style:dotted;
     padding:10px;}
 #about {
-    border-color: #fcd920;
+    border-color: darkorchid;
     border-width:2px;
     border-style:dotted;
     padding:10px;}
 td.header {
-    font-family:"proxima nova";
-    color: #e53b51;}
+    font-family:"blenny black";
+    color: fuchsia;}
 th.time {
     font-family:"arial black";
     color:aliceblue;
-    background-color: #ec6c20;}
+    background-color:darkturquoise;}
 .container{
     font-family:"abril fatface";
-    background-color: #fcd920;
+    background-color: fuchsia;
     padding: 25px;
-    border-color: #3cb5b5;
+    border-color:aquamarine;
     border-style:dotted;}
