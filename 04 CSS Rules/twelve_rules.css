@@ -1,0 +1,42 @@
+body {
+    font-family: "merriweather";
+    background-color: #fffeff;
+    padding: 10px;}
+h1 {
+    font-family: "Lato";
+    color: #e53b51;}
+h2 {
+    color: #ec6c20;
+    font-family: "Lato";}
+h3 {
+    color: #3cb5b5;
+    font-family: "Lato";}
+h4 {
+    color: #3cb5b5;
+    font-family: "merriweather";
+    font-weight: bold;}
+#source {font-size: 75%;}
+i {color:#ec6c20}
+b {color:#f37602}
+.page {
+    border-color: #e53b51;
+    border-style:dotted;
+    padding:10px;}
+#about {
+    border-color: #fcd920;
+    border-width:2px;
+    border-style:dotted;
+    padding:10px;}
+td.header {
+    font-family:"proxima nova";
+    color: #e53b51;}
+th.time {
+    font-family:"arial black";
+    color:aliceblue;
+    background-color: #ec6c20;}
+.container{
+    font-family:"abril fatface";
+    background-color: #fcd920;
+    padding: 25px;
+    border-color: #3cb5b5;
+    border-style:dotted;}
