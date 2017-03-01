@@ -1,0 +1,48 @@
+/* Put your CSS here. */
+
+
+
+.stanza-sans_serif {
+    font-family: Helvetica, sans-serif ;
+    color: #41ad49 ;
+}
+
+.stanza-serif {
+    font-family: Georgia, serif ;  
+    color: #25408f ;
+}
+
+.stanza-mono {
+    font-family: Courier, monospace;    
+    color: #ec008c ;
+}
+
+.stanza-sans_serif, .stanza-serif, .stanza-mono {
+    color: black ;
+}
+
+
+h1, h2 {
+    font-family: Georgia, serif ;  
+}
+
+h2 {
+    font-size: 17px ;
+    font-weight: normal ;
+}
+
+h3 {
+    font-family: Verdana, sans-serif ;
+    text-transform: uppercase ;
+    color:#9debcc ;
+/*    visibility: hidden ;*/
+    display: none ;
+}
+
+#author {
+    text-transform: uppercase ;
+}
+
+p::first-line {
+    text-transform: uppercase ;
+}
